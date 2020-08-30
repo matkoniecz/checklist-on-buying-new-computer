@@ -2,7 +2,7 @@
 
 List of thinks that should be checked on obtaining new computer. Especially on buying an used one.
 
-- [ ] Check for dead pixels: [http://lcdtech.info/en/tests/dead.pixel.htm](http://lcdtech.info/en/tests/dead.pixel.htm) and [http://deadpixeltest.com/](http://deadpixeltest.com/) seem to be a nice tools
+- [ ] Check for dead pixels: [http://www.lagom.nl/lcd-test/](http://www.lagom.nl/lcd-test/), [http://lcdtech.info/en/tests/dead.pixel.htm](http://lcdtech.info/en/tests/dead.pixel.htm) and [http://deadpixeltest.com/](http://deadpixeltest.com/) seem to be a nice tools
 - [ ] Backlight bleed test - check in completely dark room whatever black screen is evenly black
 - [ ] Even lighting - check white backround is it evenly lit (check from multiple angles)
 - [ ] Even lighting - check light blue backround is it evenly lit (check from multiple angles)
