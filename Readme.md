@@ -25,6 +25,7 @@ List of thinks that should be checked on obtaining new computer. Especially on b
 - - [ ] fingerprint sensor
 - - ?????what kind of standard port is missing here?
 - - [ ] other ports
+- [ ] shake computer - is anything moving? Is it still working?
 - [ ] wifi - is it connecting?
 - [ ] bluetooth - is it connecting?
 - [ ] is touchpoad working?
