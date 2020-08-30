@@ -14,11 +14,24 @@ List of thinks that should be checked on obtaining new computer. Epecially on bu
 - [ ] Test CPU and/or GPU - https://www.guidingtech.com/41727/test-hardware-new-used-pc/ recommends [FurMark](https://geeks3d.com/furmark/downloads/), no idea is it a good tool. 
 - [ ] Test RAM
 - [ ] Look for nicks, scratches, or dents larger than what was disclosed by seller
-- [ ] Ports - is everything plugging in and working correctly?
+- [ ] Ports - is everything plugging in and working correctly? Some ports, especially dying ones such as VGA may be missing, obviously
+- - [ ] USB ports
+- - [ ] Network port
+- - [ ] HDMI port
+- - [ ] VGA port
+- - [ ] headphone port
+- - [ ] speakers port
+- - ?????
 - [ ] wifi - is it connecting?
 - [ ] bluetooth - is it connecting?
+- [ ] is touchpoad working?
+- [ ] is trackball/trackthing working? (or not present?)
+- [ ] check idle CPU/GPU/SSD temperature
+- [ ] check CPU/GPU/SSD temperature under heavy load (after it reaches steady temperature)
 - Verify whatever sold computer matches specification
 - - [ ] RAM
 - - [ ] SSD
 - - [ ] Processor
 - - [ ] Battery
+- [ ] Reinstall system
+- [ ] Check SMART data of drive again
