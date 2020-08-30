@@ -10,7 +10,7 @@ List of thinks that should be checked on obtaining new computer. Especially on b
 - [ ] Test keyboard [https://www.keyboardtester.com/](https://www.keyboardtester.com/) may be useful
 - [ ] Check SMART report from SSD
 - [ ] SMART equivalent for batteries (?is it even existing?)
-- [ ] Test CPU and/or GPU - https://www.guidingtech.com/41727/test-hardware-new-used-pc/ recommends [FurMark](https://geeks3d.com/furmark/downloads/), no idea is it a good tool. 
+- [ ] Test CPU and/or GPU - https://www.guidingtech.com/41727/test-hardware-new-used-pc/ recommends [FurMark](https://geeks3d.com/furmark/downloads/), no idea is it a good tool.
 - [ ] Test RAM ([memtest86+](https://www.memtest86.com/))
 - [ ] Test speakers
 - [ ] Look for nicks, scratches, or dents larger than what was disclosed by seller
