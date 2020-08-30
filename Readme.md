@@ -32,6 +32,7 @@ List of thinks that should be checked on obtaining new computer. Especially on b
 - [ ] is trackball/trackthing working? (or not present?)
 - [ ] check idle CPU/GPU/SSD temperature
 - [ ] check CPU/GPU/SSD temperature under heavy load (after it reaches steady temperature)
+- [ ] test touchscreen if present
 - Verify whatever sold computer matches specification
 - - [ ] RAM
 - - [ ] SSD
