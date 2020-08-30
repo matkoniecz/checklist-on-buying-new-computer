@@ -34,5 +34,9 @@ List of thinks that should be checked on obtaining new computer. Epecially on bu
 - - [ ] SSD
 - - [ ] Processor
 - - [ ] Battery
+- - [ ] Screen resolution
+- - [ ] OS type
+- - [ ] Keyboard type (some used computers are discounted due to weird keyboards, such as [Swedish one](https://en.wikipedia.org/wiki/File:KB_Sweden.svg))
+- - [ ] Video card
 - [ ] Reinstall system
 - [ ] Check SMART data of drive again
