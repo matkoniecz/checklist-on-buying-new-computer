@@ -21,6 +21,8 @@ List of thinks that should be checked on obtaining new computer. Especially on b
 - - [ ] VGA port
 - - [ ] headphone port
 - - [ ] speakers port
+- - [ ] smart-card reader
+- - [ ] fingerprint sensor
 - - ?????what kind of standard port is missing here?
 - - [ ] other ports
 - [ ] wifi - is it connecting?
