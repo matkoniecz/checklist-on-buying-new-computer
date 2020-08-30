@@ -1,13 +1,10 @@
 List of thinks that should be checked on obtaining new computer. Epecially on buying an used one.
 
-- [ ] Store warranty documentation with note when it expires
-- [ ] Start OS upgrade
-- [ ] Upgrade browser to newest Firefox
 - [ ] Check for dead pixels: [http://lcdtech.info/en/tests/dead.pixel.htm](http://lcdtech.info/en/tests/dead.pixel.htm) and [http://deadpixeltest.com/](http://deadpixeltest.com/) seem to be a nice tools
-- [ ] backlight bleed test - check in completely dark room whatever black screen is evenly black
-- [ ] even lighting - check white backround is it evenly lit (check from multiple angles)
-- [ ] even lighting - check light blue backround is it evenly lit (check from multiple angles)
-- [ ] in case of lit keyboard, is it working properly?
+- [ ] Backlight bleed test - check in completely dark room whatever black screen is evenly black
+- [ ] Even lighting - check white backround is it evenly lit (check from multiple angles)
+- [ ] Even lighting - check light blue backround is it evenly lit (check from multiple angles)
+- [ ] In case of lit keyboard, is it working properly?
 - [ ] Test keyboard [https://www.keyboardtester.com/](https://www.keyboardtester.com/) may be useful
 - [ ] Check SMART report from SSD
 - [ ] SMART equivalent for batteries (?is it even existing?)
@@ -22,7 +19,8 @@ List of thinks that should be checked on obtaining new computer. Epecially on bu
 - - [ ] VGA port
 - - [ ] headphone port
 - - [ ] speakers port
-- - ?????
+- - ?????what kind of standard port is missing here?
+- - [ ] other ports
 - [ ] wifi - is it connecting?
 - [ ] bluetooth - is it connecting?
 - [ ] is touchpoad working?
@@ -40,3 +38,4 @@ List of thinks that should be checked on obtaining new computer. Epecially on bu
 - - [ ] Video card
 - [ ] Reinstall system
 - [ ] Check SMART data of drive again
+- [ ] Store warranty documentation with note when it expires
