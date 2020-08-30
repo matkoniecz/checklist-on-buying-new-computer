@@ -36,7 +36,7 @@ List of thinks that should be checked on obtaining new computer. Especially on b
 - - [ ] RAM
 - - [ ] SSD
 - - [ ] Processor
-- - [ ] Battery
+- - [ ] Battery (info may be accessible from BIOS)
 - - [ ] Screen resolution
 - - [ ] OS type
 - - [ ] Keyboard type (some used computers are discounted due to weird keyboards, such as [Swedish one](https://en.wikipedia.org/wiki/File:KB_Sweden.svg))
