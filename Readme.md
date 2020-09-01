@@ -3,6 +3,8 @@
 List of thinks that should be checked on obtaining new computer. Especially on buying an used one.
 
 - [ ] Check BIOS events log
+- [ ] Check whatever BIOS is password-locked with disabled editing
+- [ ] Look through BIOS in general
 - [ ] Check for dead pixels: [http://www.lagom.nl/lcd-test/](http://www.lagom.nl/lcd-test/), [http://lcdtech.info/en/tests/dead.pixel.htm](http://lcdtech.info/en/tests/dead.pixel.htm) and [http://deadpixeltest.com/](http://deadpixeltest.com/) seem to be a nice tools
 - [ ] Backlight bleed test - check in completely dark room whatever black screen is evenly black
 - [ ] Even lighting - check white backround is it evenly lit (check from multiple angles)
@@ -48,4 +50,5 @@ List of thinks that should be checked on obtaining new computer. Especially on b
 - [ ] [Disable fast startup](https://askubuntu.com/a/683131/349903) on Windows if you want to install Linux alongside it
 - [ ] Reinstall system
 - [ ] Check SMART data of drive again
+- [ ] Clear keys added by previous owner to [TPM](https://en.wikipedia.org/wiki/Trusted_Platform_Module)
 - [ ] Store warranty documentation with note when it expires
