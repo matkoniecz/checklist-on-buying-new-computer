@@ -19,11 +19,13 @@ List of thinks that should be checked on obtaining new computer. Especially on b
 - - [ ] USB ports
 - - [ ] Network port
 - - [ ] HDMI port
-- - [ ] VGA port
+- - [ ] VGA port (it still appears)
 - - [ ] headphone port
 - - [ ] speakers port
 - - [ ] smart-card reader
 - - [ ] fingerprint sensor
+- - [ ] displayPort (likely only on older ones)
+- - [ ] thunderbolt (may share port with USB-C)
 - - ?????what kind of standard port is missing here?
 - - [ ] other ports
 - [ ] shake computer - is anything moving? Is it still working?
